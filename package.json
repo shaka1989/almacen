@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "devDependencies": {
+    "elixir-uglify": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.2",
+    "laravel-elixir": "^5.0.0"
+  }
+}

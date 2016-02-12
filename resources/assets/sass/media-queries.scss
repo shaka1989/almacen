@@ -1,0 +1,43 @@
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+	.container-cards-products
+	{
+		padding-left: 50px;
+    	padding-right: 10px;
+
+    	.cards-products
+		{
+			margin-right: 30px;
+			padding: 0;
+			height: 280px;
+		}
+    }
+
+
+	.container-form
+	{
+
+
+		.form-horizontal
+		{
+			width:60%; 
+			margin:0 auto;
+		}
+
+	}
+
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+
+}
