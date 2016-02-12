@@ -9,6 +9,9 @@ Laravel 5.0, gulp, bower, elixir, sass, bootstrap, jquery, ajax
 
 1)Crear base de datos y modificar el archivo .env con los respectivos datos.
 
-2)Ejecutar php artisan migrate
+2) Ejecutar composer update
 
-3)Ejecutar php artisan db:seed
+3)Ejecutar php artisan migrate
+
+4)Ejecutar php artisan db:seed
+
