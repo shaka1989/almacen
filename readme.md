@@ -11,7 +11,7 @@ Laravel 5.0, gulp, bower, elixir, sass, bootstrap, jquery, ajax
 
 2) Ejecutar composer update
 
-3)Ejecutar php artisan migrate
+3) Ejecutar php artisan migrate
 
-4)Ejecutar php artisan db:seed
+4) Ejecutar php artisan db:seed
 
